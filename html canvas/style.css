@@ -9,3 +9,14 @@
             width: 600px;
             height: 300px;
         }
+    h3{
+                font-family:sans-serif;
+                font-size:-webkit-xxx-large;
+                text-align:center;
+                color:brown;
+        }
+        p{
+                font-size:larger;
+                text-align:center;
+                color:chocolate;
+        }
